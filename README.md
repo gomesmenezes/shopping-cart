@@ -34,7 +34,7 @@ The project uses JDBC to connect to a MySQL database and insert products into th
 
 ## Contribution
 
-Contributions are welcome! If you have any suggestions for improvement, feel free to open an issue or send a pull request.
+Contributions are welcome! If you have any suggestions for improvement.
 
 ## License
 
